@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : 2015高雄市資訊學科能力競賽.cpp
+// Name        : p1.山洞探險
 // Author      :
 // Version     :
 // Copyright   : Your copyright notice
@@ -10,6 +10,6 @@
 using namespace std;
 
 int main() {
-	cout << "aaa" << endl; // prints
-	return 0;
+   cout << "山洞探險" << endl; // prints
+   return 0;
 }
